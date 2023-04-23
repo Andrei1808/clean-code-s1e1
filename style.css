@@ -44,8 +44,8 @@ margin: 0 auto 0;
   display: flex;
 }
 
-.tasks-list__incomplete-tasks-items,
-.tasks-list__completed-tasks-items{
+.tasks-list__completed-tasks-items,
+.tasks-list__incomplete-tasks-items{
   margin: 0;
   padding: 0;
   list-style-type: none;
