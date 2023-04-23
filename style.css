@@ -146,8 +146,12 @@ margin: 0 auto 0;
   color: #888;
 }
 
+.completed-tasks .input-text{
+    display: none;
+}
+
 /* Edit Task */
-.tasks .input-text{
+.tasks-list .input-text{
   display: none;
 }
 
